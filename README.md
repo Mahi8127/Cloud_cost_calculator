@@ -96,5 +96,3 @@ Estimate outbound and transfer costs across providers.
 - Prices may vary by region and provider updates
 - Designed for learning and cost planning
 
-## License
-MIT License
